@@ -33,6 +33,17 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "tab": "Příručky",
+            "groups": [
+              {
+                "group": "Začínáme",
+                "pages": [
+                  "cs/guides/getting-started"
+                ]
+              }
+            ]
           }
         ]
       },
