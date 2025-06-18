@@ -1,34 +1,8 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-    "locales": ["en", "cs"],
+  "locales": ["en", "cs"],
   "defaultLocale": "cs",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting Started",
-            "pages": [
-              "guides/getting-started"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Příručky",
-        "groups": [
-          {
-            "group": "Začínáme",
-            "pages": [
-              "cs/guides/getting-started"
-            ]
-          }
-        ]
-      }
-    ]
-  },
   "name": "Mint Starter Kit",
   "colors": {
     "primary": "#16A34A",
