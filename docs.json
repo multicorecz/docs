@@ -33,17 +33,6 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
-          },
-          {
-            "tab": "Příručky",
-            "groups": [
-              {
-                "group": "Začínáme",
-                "pages": [
-                  "cs/guides/getting-started"
-                ]
-              }
-            ]
           }
         ]
       },
@@ -63,6 +52,17 @@
               "api-reference/endpoint/create",
               "api-reference/endpoint/delete",
               "api-reference/endpoint/webhook"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Příručky",
+        "groups": [
+          {
+            "group": "Začínáme",
+            "pages": [
+              "cs/guides/getting-started"
             ]
           }
         ]
